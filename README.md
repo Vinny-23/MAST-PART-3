@@ -10,4 +10,6 @@ Part 3.
 4. Prices appear on their own
 5. The app now displays a time for the restaurant.
 
+-The app had also had some changes that we necessary for it to be able to function as it gives the chef and also the user to use, create and navigate through the app as the will create and explore more on the app.
+-The app shows the location of the firm as it will be important for the firm to be able to be recognized by the peopla and the society as they could see that the firm will be highly established
 -In conclusion the app is functioning correctly and much better than before
